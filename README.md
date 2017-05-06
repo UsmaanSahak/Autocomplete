@@ -1,10 +1,15 @@
 # Autocomplete
 /************************************************************************
+
 Title:			README.txt
+
 Author:			Usmaan Sahak
+
 Purpose:		README file
+
 Description:		Program performs autocomplete function for a given 
 			string and number of responses.
+			
 *************************************************************************/
 
 
